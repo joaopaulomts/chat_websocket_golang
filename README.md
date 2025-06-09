@@ -82,12 +82,6 @@ Você pode abrir em múltiplas abas ou janelas para simular múltiplos usuários
 
 ---
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Sinta-se à vontade para usar e modif
-
----
-
 ## 🙋‍♂️ Autor
 
 Feito com 💻 por **João Paulo**
