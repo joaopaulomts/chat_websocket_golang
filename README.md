@@ -1,6 +1,6 @@
 # 💬 Chat WebSocket em Go
 
-Este é um simples servidor de **chat em tempo real** utilizando **WebSocket com Golang**. O objetivo é demonstrar uma implementação básica de comunicação bidirecional entre clientes e servidor usando o pacote [`gorilla/websocket`](https://github.com/gorilla/websocket).
+Este é um simples servidor de **chat em tempo real** utilizando **WebSocket com Golang**. O objetivo é demonstrar uma implementação básica de comunicação bidirecional entre clientes e servidor usando o pacote [`gorilla/websocket`](https://github.com/gorilla/websocket)
 
 ---
 
