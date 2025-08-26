@@ -85,4 +85,4 @@ Você pode abrir em múltiplas abas ou janelas para simular múltiplos usuários
 ## 🙋‍♂️ Autor
 
 Feito com 💻 por **João Paulo**
-Se quiser contribuir ou melhorar
+Se quiser contribuir ou
