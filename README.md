@@ -83,5 +83,3 @@ Você pode abrir em múltiplas abas ou janelas para simular múltiplos usuários
 ---
 
 ## 🙋‍♂️ Autor
-
-Feito
