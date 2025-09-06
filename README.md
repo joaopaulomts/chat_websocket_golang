@@ -81,5 +81,3 @@ Você pode abrir em múltiplas abas ou janelas para simular múltiplos usuários
 * [`github.com/gorilla/websocket`](https://github.com/gorilla/websocket) – biblioteca robusta para WebSocket no Go.
 
 ---
-
-## 🙋‍♂️
